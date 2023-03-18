@@ -1,0 +1,36 @@
+Header{
+  background-color: gray;
+  color: black;
+  margin: 20px;
+  padding: 5px;
+}
+navigation{
+    background-color: gray;
+    color: black;
+    margin: 20px;
+    padding: 5px;
+  }
+  column1{
+    background-color: gray;
+    color: black;
+    margin: 20px;
+    padding: 5px;
+  }
+  column2{
+    background-color: gray;
+    color: black;
+    margin: 20px;
+    padding: 5px;
+  }
+  column3{
+    background-color: gray;
+    color: black;
+    margin: 20px;
+    padding: 5px;
+  }
+  footer{
+    background-color: gray;
+    color: black;
+    margin: 20px;
+    padding: 5px;
+  }
